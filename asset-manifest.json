@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/hephaestus/static/css/main.d65ccb4b.css",
-    "main.js": "/hephaestus/static/js/main.fffc4f70.js",
+    "main.css": "/hephaestus/static/css/main.5cd37dbf.css",
+    "main.js": "/hephaestus/static/js/main.c66b2e01.js",
     "static/js/787.21282024.chunk.js": "/hephaestus/static/js/787.21282024.chunk.js",
     "index.html": "/hephaestus/index.html",
-    "main.d65ccb4b.css.map": "/hephaestus/static/css/main.d65ccb4b.css.map",
-    "main.fffc4f70.js.map": "/hephaestus/static/js/main.fffc4f70.js.map",
+    "main.5cd37dbf.css.map": "/hephaestus/static/css/main.5cd37dbf.css.map",
+    "main.c66b2e01.js.map": "/hephaestus/static/js/main.c66b2e01.js.map",
     "787.21282024.chunk.js.map": "/hephaestus/static/js/787.21282024.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.d65ccb4b.css",
-    "static/js/main.fffc4f70.js"
+    "static/css/main.5cd37dbf.css",
+    "static/js/main.c66b2e01.js"
   ]
 }
