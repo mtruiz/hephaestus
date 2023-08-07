@@ -11,7 +11,7 @@ type LinkProps = {
 }
 
 export const Nav: React.FC<NavProps> = ({children}) => (
-  <nav className="bg-gray-800">
+  <nav className="bg-gray-200 dark:bg-gray-800">
     <div className="flex items-center justify-center h-16">
       <div className="flex space-x-4">
         {children}
@@ -21,7 +21,17 @@ export const Nav: React.FC<NavProps> = ({children}) => (
 )
 
 export const NavLink: React.FC<LinkProps> = ({children, to}) => (
-  <Link className="text-gray-300 hover:bg-gray-700 hover:text-white rounded-md px-3 py-2" to={to}>
+  <Link
+    className="
+      text-gray-800
+      dark:text-gray-300
+      hover:bg-gray-700
+      hover:text-white
+      rounded-md
+      px-3 py-2
+    "
+    to={to}
+  >
     {children}
   </Link>
 )
